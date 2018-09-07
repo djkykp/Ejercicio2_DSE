@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+int a=1;
 void main (void)
 {
 printf("Hello I'm Jesus");
