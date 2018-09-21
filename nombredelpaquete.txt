@@ -1,0 +1,19 @@
+                                Numero de equipo 10.
+
+Nombre del paquete.
+                             NP_ID_TI_VS. 
+
+NP: Nombre del proyecto.
+ID: Identificador para cada plataforma.
+TI: Tipo de liberación de software. 
+
+      •	Desarrollo =DO
+      •	Ingeniería =IN
+      •	Producción =PC
+
+VS: Versión.
+ 
+ejemplo.
+
+Sistemaembebido_930481_DO_1.  
+
